@@ -1,0 +1,748 @@
+Total Trainable Parameters: 515,754
+
+💫 starting supervised training and RL fine-tuning with 1e-3 learning rate
+
+Epoch [1] 📊 acc: 0.315 | Targets: 1.9833 | Entropy: -2.1648
+New ref model saved
+Epoch [2] 📊 acc: 0.489 | Targets: 1.6746 | Entropy: -2.0771
+New ref model saved
+Epoch [3] 📊 acc: 0.568 | Targets: 1.5488 | Entropy: -2.0386
+New ref model saved
+Epoch [4] 📊 acc: 0.619 | Targets: 1.4564 | Entropy: -2.0112
+New ref model saved
+Epoch [5] 📊 acc: 0.659 | Targets: 1.3925 | Entropy: -1.9938
+New ref model saved
+Epoch [6] 📊 acc: 0.688 | Targets: 1.3399 | Entropy: -1.9797
+New ref model saved
+Epoch [7] 📊 acc: 0.705 | Targets: 1.3043 | Entropy: -1.9700
+New ref model saved
+Epoch [8] 📊 acc: 0.719 | Targets: 1.2829 | Entropy: -1.9650
+New ref model saved
+Epoch [9] 📊 acc: 0.731 | Targets: 1.2616 | Entropy: -1.9601
+New ref model saved
+Epoch [10] 📊 acc: 0.740 | Targets: 1.2426 | Entropy: -1.9558
+New ref model saved
+
+Evaluating at epoch 10 …
+Train Accuracy: 74.08%
+Train Average Loss: 1.2491
+Test Accuracy: 79.11%
+Test Average Loss: 1.1573
+Total Trainable Parameters: 515,754
+
+Current learning rate: 9.97e-04
+New best model saved with test accuracy: 79.11%
+Epoch [11] 📊 acc: 0.749 | Targets: 1.2255 | Entropy: -1.9521
+New ref model saved
+Epoch [12] 📊 acc: 0.757 | Targets: 1.2069 | Entropy: -1.9471
+New ref model saved
+Epoch [13] 📊 acc: 0.760 | Targets: 1.1979 | Entropy: -1.9453
+New ref model saved
+Epoch [14] 📊 acc: 0.768 | Targets: 1.1859 | Entropy: -1.9426
+New ref model saved
+Epoch [15] 📊 acc: 0.775 | Targets: 1.1764 | Entropy: -1.9410
+New ref model saved
+Epoch [16] 📊 acc: 0.781 | Targets: 1.1634 | Entropy: -1.9378
+New ref model saved
+Epoch [17] 📊 acc: 0.787 | Targets: 1.1509 | Entropy: -1.9346
+New ref model saved
+Epoch [18] 📊 acc: 0.789 | Targets: 1.1410 | Entropy: -1.9328
+New ref model saved
+Epoch [19] 📊 acc: 0.793 | Targets: 1.1381 | Entropy: -1.9327
+New ref model saved
+Epoch [20] 📊 acc: 0.800 | Targets: 1.1256 | Entropy: -1.9290
+New ref model saved
+
+Evaluating at epoch 20 …
+Train Accuracy: 80.57%
+Train Average Loss: 1.1000
+Test Accuracy: 84.93%
+Test Average Loss: 1.0167
+Total Trainable Parameters: 515,754
+
+Current learning rate: 9.89e-04
+New best model saved with test accuracy: 84.93%
+Epoch [21] 📊 acc: 0.801 | Targets: 1.1224 | Entropy: -1.9287
+New ref model saved
+Epoch [22] 📊 acc: 0.804 | Targets: 1.1144 | Entropy: -1.9276
+New ref model saved
+Epoch [23] 📊 acc: 0.809 | Targets: 1.1095 | Entropy: -1.9260
+New ref model saved
+Epoch [24] 📊 acc: 0.811 | Targets: 1.0991 | Entropy: -1.9235
+New ref model saved
+Epoch [25] 📊 acc: 0.813 | Targets: 1.0966 | Entropy: -1.9236
+New ref model saved
+Epoch [26] 📊 acc: 0.811 | Targets: 1.0950 | Entropy: -1.9229
+Epoch [27] 📊 acc: 0.819 | Targets: 1.0873 | Entropy: -1.9218
+New ref model saved
+Epoch [28] 📊 acc: 0.822 | Targets: 1.0819 | Entropy: -1.9196
+New ref model saved
+Epoch [29] 📊 acc: 0.821 | Targets: 1.0798 | Entropy: -1.9196
+Epoch [30] 📊 acc: 0.827 | Targets: 1.0757 | Entropy: -1.9195
+New ref model saved
+
+Evaluating at epoch 30 …
+Train Accuracy: 82.94%
+Train Average Loss: 1.0955
+Test Accuracy: 87.42%
+Test Average Loss: 1.0067
+Total Trainable Parameters: 515,754
+
+Current learning rate: 9.76e-04
+New best model saved with test accuracy: 87.42%
+Epoch [31] 📊 acc: 0.828 | Targets: 1.0699 | Entropy: -1.9180
+New ref model saved
+Epoch [32] 📊 acc: 0.830 | Targets: 1.0657 | Entropy: -1.9165
+New ref model saved
+Epoch [33] 📊 acc: 0.834 | Targets: 1.0594 | Entropy: -1.9153
+New ref model saved
+Epoch [34] 📊 acc: 0.834 | Targets: 1.0569 | Entropy: -1.9140
+New ref model saved
+Epoch [35] 📊 acc: 0.838 | Targets: 1.0503 | Entropy: -1.9131
+New ref model saved
+Epoch [36] 📊 acc: 0.838 | Targets: 1.0473 | Entropy: -1.9119
+New ref model saved
+Epoch [37] 📊 acc: 0.838 | Targets: 1.0472 | Entropy: -1.9123
+Epoch [38] 📊 acc: 0.839 | Targets: 1.0460 | Entropy: -1.9129
+New ref model saved
+Epoch [39] 📊 acc: 0.842 | Targets: 1.0420 | Entropy: -1.9115
+New ref model saved
+Epoch [40] 📊 acc: 0.842 | Targets: 1.0410 | Entropy: -1.9113
+New ref model saved
+
+Evaluating at epoch 40 …
+Train Accuracy: 84.59%
+Train Average Loss: 1.0377
+Test Accuracy: 87.90%
+Test Average Loss: 0.9663
+Total Trainable Parameters: 515,754
+
+Current learning rate: 9.57e-04
+New best model saved with test accuracy: 87.90%
+Epoch [41] 📊 acc: 0.844 | Targets: 1.0370 | Entropy: -1.9114
+New ref model saved
+Epoch [42] 📊 acc: 0.845 | Targets: 1.0359 | Entropy: -1.9103
+New ref model saved
+Epoch [43] 📊 acc: 0.848 | Targets: 1.0300 | Entropy: -1.9094
+New ref model saved
+Epoch [44] 📊 acc: 0.846 | Targets: 1.0297 | Entropy: -1.9094
+Epoch [45] 📊 acc: 0.850 | Targets: 1.0273 | Entropy: -1.9089
+New ref model saved
+Epoch [46] 📊 acc: 0.855 | Targets: 1.0196 | Entropy: -1.9071
+New ref model saved
+Epoch [47] 📊 acc: 0.855 | Targets: 1.0180 | Entropy: -1.9064
+New ref model saved
+Epoch [48] 📊 acc: 0.858 | Targets: 1.0157 | Entropy: -1.9064
+New ref model saved
+Epoch [49] 📊 acc: 0.856 | Targets: 1.0129 | Entropy: -1.9051
+Epoch [50] 📊 acc: 0.858 | Targets: 1.0102 | Entropy: -1.9047
+New ref model saved
+
+Evaluating at epoch 50 …
+Train Accuracy: 87.09%
+Train Average Loss: 0.9902
+Test Accuracy: 89.72%
+Test Average Loss: 0.9330
+Total Trainable Parameters: 515,754
+
+Current learning rate: 9.33e-04
+New best model saved with test accuracy: 89.72%
+Epoch [51] 📊 acc: 0.859 | Targets: 1.0086 | Entropy: -1.9042
+New ref model saved
+Epoch [52] 📊 acc: 0.861 | Targets: 1.0058 | Entropy: -1.9038
+New ref model saved
+Epoch [53] 📊 acc: 0.862 | Targets: 1.0037 | Entropy: -1.9028
+New ref model saved
+Epoch [54] 📊 acc: 0.861 | Targets: 1.0044 | Entropy: -1.9042
+Epoch [55] 📊 acc: 0.863 | Targets: 1.0011 | Entropy: -1.9030
+New ref model saved
+Epoch [56] 📊 acc: 0.864 | Targets: 1.0000 | Entropy: -1.9022
+New ref model saved
+Epoch [57] 📊 acc: 0.865 | Targets: 0.9960 | Entropy: -1.9019
+New ref model saved
+Epoch [58] 📊 acc: 0.865 | Targets: 0.9974 | Entropy: -1.9018
+New ref model saved
+Epoch [59] 📊 acc: 0.866 | Targets: 0.9967 | Entropy: -1.9023
+New ref model saved
+Epoch [60] 📊 acc: 0.868 | Targets: 0.9912 | Entropy: -1.9006
+New ref model saved
+
+Evaluating at epoch 60 …
+Train Accuracy: 87.46%
+Train Average Loss: 0.9775
+Test Accuracy: 89.94%
+Test Average Loss: 0.9317
+Total Trainable Parameters: 515,754
+
+Current learning rate: 9.05e-04
+New best model saved with test accuracy: 89.94%
+Epoch [61] 📊 acc: 0.869 | Targets: 0.9871 | Entropy: -1.8995
+New ref model saved
+Epoch [62] 📊 acc: 0.868 | Targets: 0.9904 | Entropy: -1.9006
+Epoch [63] 📊 acc: 0.872 | Targets: 0.9848 | Entropy: -1.9000
+New ref model saved
+Epoch [64] 📊 acc: 0.873 | Targets: 0.9817 | Entropy: -1.8983
+New ref model saved
+Epoch [65] 📊 acc: 0.871 | Targets: 0.9841 | Entropy: -1.8998
+Epoch [66] 📊 acc: 0.874 | Targets: 0.9808 | Entropy: -1.8986
+New ref model saved
+Epoch [67] 📊 acc: 0.875 | Targets: 0.9799 | Entropy: -1.8986
+New ref model saved
+Epoch [68] 📊 acc: 0.877 | Targets: 0.9768 | Entropy: -1.8975
+New ref model saved
+Epoch [69] 📊 acc: 0.878 | Targets: 0.9749 | Entropy: -1.8973
+New ref model saved
+Epoch [70] 📊 acc: 0.876 | Targets: 0.9743 | Entropy: -1.8974
+
+Evaluating at epoch 70 …
+Train Accuracy: 88.45%
+Train Average Loss: 0.9727
+Test Accuracy: 91.12%
+Test Average Loss: 0.9269
+Total Trainable Parameters: 515,754
+
+Current learning rate: 8.72e-04
+New best model saved with test accuracy: 91.12%
+Epoch [71] 📊 acc: 0.879 | Targets: 0.9734 | Entropy: -1.8972
+New ref model saved
+Epoch [72] 📊 acc: 0.879 | Targets: 0.9727 | Entropy: -1.8970
+New ref model saved
+Epoch [73] 📊 acc: 0.881 | Targets: 0.9680 | Entropy: -1.8958
+New ref model saved
+Epoch [74] 📊 acc: 0.880 | Targets: 0.9677 | Entropy: -1.8956
+Epoch [75] 📊 acc: 0.882 | Targets: 0.9679 | Entropy: -1.8958
+New ref model saved
+Epoch [76] 📊 acc: 0.884 | Targets: 0.9612 | Entropy: -1.8942
+New ref model saved
+Epoch [77] 📊 acc: 0.883 | Targets: 0.9613 | Entropy: -1.8943
+Epoch [78] 📊 acc: 0.884 | Targets: 0.9606 | Entropy: -1.8938
+Epoch [79] 📊 acc: 0.884 | Targets: 0.9594 | Entropy: -1.8941
+New ref model saved
+Epoch [80] 📊 acc: 0.886 | Targets: 0.9581 | Entropy: -1.8935
+New ref model saved
+
+Evaluating at epoch 80 …
+Train Accuracy: 88.99%
+Train Average Loss: 0.9412
+Test Accuracy: 91.00%
+Test Average Loss: 0.9001
+Total Trainable Parameters: 515,754
+
+Current learning rate: 8.35e-04
+Epoch [81] 📊 acc: 0.884 | Targets: 0.9598 | Entropy: -1.8946
+Epoch [82] 📊 acc: 0.885 | Targets: 0.9578 | Entropy: -1.8938
+Epoch [83] 📊 acc: 0.888 | Targets: 0.9554 | Entropy: -1.8934
+New ref model saved
+Epoch [84] 📊 acc: 0.889 | Targets: 0.9523 | Entropy: -1.8924
+New ref model saved
+Epoch [85] 📊 acc: 0.891 | Targets: 0.9493 | Entropy: -1.8917
+New ref model saved
+Epoch [86] 📊 acc: 0.890 | Targets: 0.9500 | Entropy: -1.8918
+Epoch [87] 📊 acc: 0.891 | Targets: 0.9503 | Entropy: -1.8922
+New ref model saved
+Epoch [88] 📊 acc: 0.891 | Targets: 0.9493 | Entropy: -1.8917
+New ref model saved
+Epoch [89] 📊 acc: 0.891 | Targets: 0.9477 | Entropy: -1.8918
+Epoch [90] 📊 acc: 0.893 | Targets: 0.9452 | Entropy: -1.8908
+New ref model saved
+
+Evaluating at epoch 90 …
+Train Accuracy: 89.45%
+Train Average Loss: 0.9404
+Test Accuracy: 91.09%
+Test Average Loss: 0.8943
+Total Trainable Parameters: 515,754
+
+Current learning rate: 7.94e-04
+Epoch [91] 📊 acc: 0.894 | Targets: 0.9430 | Entropy: -1.8905
+New ref model saved
+Epoch [92] 📊 acc: 0.894 | Targets: 0.9426 | Entropy: -1.8908
+Epoch [93] 📊 acc: 0.897 | Targets: 0.9393 | Entropy: -1.8895
+New ref model saved
+Epoch [94] 📊 acc: 0.895 | Targets: 0.9417 | Entropy: -1.8903
+Epoch [95] 📊 acc: 0.897 | Targets: 0.9387 | Entropy: -1.8894
+New ref model saved
+Epoch [96] 📊 acc: 0.896 | Targets: 0.9384 | Entropy: -1.8897
+Epoch [97] 📊 acc: 0.895 | Targets: 0.9390 | Entropy: -1.8900
+Epoch [98] 📊 acc: 0.897 | Targets: 0.9380 | Entropy: -1.8896
+Epoch [99] 📊 acc: 0.899 | Targets: 0.9336 | Entropy: -1.8886
+New ref model saved
+Epoch [100] 📊 acc: 0.899 | Targets: 0.9339 | Entropy: -1.8887
+
+Evaluating at epoch 100 …
+Train Accuracy: 89.97%
+Train Average Loss: 0.9249
+Test Accuracy: 91.42%
+Test Average Loss: 0.8923
+Total Trainable Parameters: 515,754
+
+Current learning rate: 7.50e-04
+New best model saved with test accuracy: 91.42%
+Epoch [101] 📊 acc: 0.900 | Targets: 0.9320 | Entropy: -1.8880
+New ref model saved
+Epoch [102] 📊 acc: 0.901 | Targets: 0.9290 | Entropy: -1.8871
+New ref model saved
+Epoch [103] 📊 acc: 0.902 | Targets: 0.9289 | Entropy: -1.8876
+New ref model saved
+Epoch [104] 📊 acc: 0.902 | Targets: 0.9280 | Entropy: -1.8873
+New ref model saved
+Epoch [105] 📊 acc: 0.902 | Targets: 0.9287 | Entropy: -1.8871
+Epoch [106] 📊 acc: 0.903 | Targets: 0.9266 | Entropy: -1.8868
+New ref model saved
+Epoch [107] 📊 acc: 0.903 | Targets: 0.9268 | Entropy: -1.8872
+New ref model saved
+Epoch [108] 📊 acc: 0.903 | Targets: 0.9257 | Entropy: -1.8870
+New ref model saved
+Epoch [109] 📊 acc: 0.901 | Targets: 0.9280 | Entropy: -1.8878
+Epoch [110] 📊 acc: 0.905 | Targets: 0.9235 | Entropy: -1.8864
+New ref model saved
+
+Evaluating at epoch 110 …
+Train Accuracy: 89.57%
+Train Average Loss: 0.9271
+Test Accuracy: 91.39%
+Test Average Loss: 0.9004
+Total Trainable Parameters: 515,754
+
+Current learning rate: 7.04e-04
+Epoch [111] 📊 acc: 0.902 | Targets: 0.9275 | Entropy: -1.8876
+Epoch [112] 📊 acc: 0.906 | Targets: 0.9226 | Entropy: -1.8866
+New ref model saved
+Epoch [113] 📊 acc: 0.906 | Targets: 0.9212 | Entropy: -1.8861
+New ref model saved
+Epoch [114] 📊 acc: 0.905 | Targets: 0.9229 | Entropy: -1.8864
+Epoch [115] 📊 acc: 0.908 | Targets: 0.9194 | Entropy: -1.8854
+New ref model saved
+Epoch [116] 📊 acc: 0.907 | Targets: 0.9199 | Entropy: -1.8857
+Epoch [117] 📊 acc: 0.909 | Targets: 0.9160 | Entropy: -1.8846
+New ref model saved
+Epoch [118] 📊 acc: 0.908 | Targets: 0.9171 | Entropy: -1.8854
+Epoch [119] 📊 acc: 0.908 | Targets: 0.9141 | Entropy: -1.8839
+Epoch [120] 📊 acc: 0.912 | Targets: 0.9099 | Entropy: -1.8831
+New ref model saved
+
+Evaluating at epoch 120 …
+Train Accuracy: 91.60%
+Train Average Loss: 0.9023
+Test Accuracy: 92.41%
+Test Average Loss: 0.8823
+Total Trainable Parameters: 515,754
+
+Current learning rate: 6.55e-04
+New best model saved with test accuracy: 92.41%
+Epoch [121] 📊 acc: 0.909 | Targets: 0.9124 | Entropy: -1.8839
+Epoch [122] 📊 acc: 0.912 | Targets: 0.9110 | Entropy: -1.8841
+New ref model saved
+Epoch [123] 📊 acc: 0.910 | Targets: 0.9111 | Entropy: -1.8835
+Epoch [124] 📊 acc: 0.913 | Targets: 0.9075 | Entropy: -1.8826
+New ref model saved
+Epoch [125] 📊 acc: 0.912 | Targets: 0.9102 | Entropy: -1.8837
+Epoch [126] 📊 acc: 0.913 | Targets: 0.9082 | Entropy: -1.8829
+Epoch [127] 📊 acc: 0.911 | Targets: 0.9101 | Entropy: -1.8837
+Epoch [128] 📊 acc: 0.914 | Targets: 0.9057 | Entropy: -1.8825
+New ref model saved
+Epoch [129] 📊 acc: 0.914 | Targets: 0.9064 | Entropy: -1.8827
+New ref model saved
+Epoch [130] 📊 acc: 0.913 | Targets: 0.9080 | Entropy: -1.8832
+
+Evaluating at epoch 130 …
+Train Accuracy: 91.72%
+Train Average Loss: 0.9028
+Test Accuracy: 92.54%
+Test Average Loss: 0.8839
+Total Trainable Parameters: 515,754
+
+Current learning rate: 6.04e-04
+New best model saved with test accuracy: 92.54%
+Epoch [131] 📊 acc: 0.914 | Targets: 0.9038 | Entropy: -1.8817
+Epoch [132] 📊 acc: 0.916 | Targets: 0.9029 | Entropy: -1.8819
+New ref model saved
+Epoch [133] 📊 acc: 0.916 | Targets: 0.9017 | Entropy: -1.8813
+New ref model saved
+Epoch [134] 📊 acc: 0.918 | Targets: 0.8991 | Entropy: -1.8812
+New ref model saved
+Epoch [135] 📊 acc: 0.918 | Targets: 0.8986 | Entropy: -1.8808
+New ref model saved
+Epoch [136] 📊 acc: 0.916 | Targets: 0.8991 | Entropy: -1.8810
+Epoch [137] 📊 acc: 0.920 | Targets: 0.8941 | Entropy: -1.8796
+New ref model saved
+Epoch [138] 📊 acc: 0.918 | Targets: 0.8975 | Entropy: -1.8809
+Epoch [139] 📊 acc: 0.920 | Targets: 0.8969 | Entropy: -1.8807
+New ref model saved
+Epoch [140] 📊 acc: 0.920 | Targets: 0.8948 | Entropy: -1.8795
+
+Evaluating at epoch 140 …
+Train Accuracy: 92.21%
+Train Average Loss: 0.8997
+Test Accuracy: 92.58%
+Test Average Loss: 0.8938
+Total Trainable Parameters: 515,754
+
+Current learning rate: 5.53e-04
+New best model saved with test accuracy: 92.58%
+Epoch [141] 📊 acc: 0.920 | Targets: 0.8946 | Entropy: -1.8803
+Epoch [142] 📊 acc: 0.921 | Targets: 0.8926 | Entropy: -1.8793
+New ref model saved
+Epoch [143] 📊 acc: 0.920 | Targets: 0.8941 | Entropy: -1.8802
+Epoch [144] 📊 acc: 0.923 | Targets: 0.8883 | Entropy: -1.8781
+New ref model saved
+Epoch [145] 📊 acc: 0.923 | Targets: 0.8896 | Entropy: -1.8787
+New ref model saved
+Epoch [146] 📊 acc: 0.922 | Targets: 0.8906 | Entropy: -1.8794
+Epoch [147] 📊 acc: 0.922 | Targets: 0.8896 | Entropy: -1.8788
+Epoch [148] 📊 acc: 0.923 | Targets: 0.8886 | Entropy: -1.8788
+Epoch [149] 📊 acc: 0.923 | Targets: 0.8886 | Entropy: -1.8786
+New ref model saved
+Epoch [150] 📊 acc: 0.924 | Targets: 0.8870 | Entropy: -1.8781
+New ref model saved
+
+Evaluating at epoch 150 …
+Train Accuracy: 93.06%
+Train Average Loss: 0.8815
+Test Accuracy: 93.10%
+Test Average Loss: 0.8777
+Total Trainable Parameters: 515,754
+
+Current learning rate: 5.01e-04
+New best model saved with test accuracy: 93.10%
+Epoch [151] 📊 acc: 0.926 | Targets: 0.8839 | Entropy: -1.8775
+New ref model saved
+Epoch [152] 📊 acc: 0.924 | Targets: 0.8864 | Entropy: -1.8782
+Epoch [153] 📊 acc: 0.925 | Targets: 0.8856 | Entropy: -1.8785
+Epoch [154] 📊 acc: 0.926 | Targets: 0.8833 | Entropy: -1.8774
+New ref model saved
+Epoch [155] 📊 acc: 0.926 | Targets: 0.8826 | Entropy: -1.8770
+Epoch [156] 📊 acc: 0.926 | Targets: 0.8832 | Entropy: -1.8772
+New ref model saved
+Epoch [157] 📊 acc: 0.929 | Targets: 0.8793 | Entropy: -1.8762
+New ref model saved
+Epoch [158] 📊 acc: 0.927 | Targets: 0.8814 | Entropy: -1.8769
+Epoch [159] 📊 acc: 0.927 | Targets: 0.8784 | Entropy: -1.8763
+Epoch [160] 📊 acc: 0.926 | Targets: 0.8822 | Entropy: -1.8772
+
+Evaluating at epoch 160 …
+Train Accuracy: 92.70%
+Train Average Loss: 0.8815
+Test Accuracy: 93.18%
+Test Average Loss: 0.8716
+Total Trainable Parameters: 515,754
+
+Current learning rate: 4.48e-04
+New best model saved with test accuracy: 93.18%
+Epoch [161] 📊 acc: 0.927 | Targets: 0.8800 | Entropy: -1.8764
+Epoch [162] 📊 acc: 0.928 | Targets: 0.8781 | Entropy: -1.8761
+Epoch [163] 📊 acc: 0.930 | Targets: 0.8757 | Entropy: -1.8755
+New ref model saved
+Epoch [164] 📊 acc: 0.928 | Targets: 0.8789 | Entropy: -1.8764
+Epoch [165] 📊 acc: 0.930 | Targets: 0.8769 | Entropy: -1.8759
+Epoch [166] 📊 acc: 0.930 | Targets: 0.8753 | Entropy: -1.8755
+Epoch [167] 📊 acc: 0.930 | Targets: 0.8742 | Entropy: -1.8755
+Epoch [168] 📊 acc: 0.931 | Targets: 0.8724 | Entropy: -1.8747
+New ref model saved
+Epoch [169] 📊 acc: 0.931 | Targets: 0.8731 | Entropy: -1.8752
+New ref model saved
+Epoch [170] 📊 acc: 0.932 | Targets: 0.8722 | Entropy: -1.8750
+New ref model saved
+
+Evaluating at epoch 170 …
+Train Accuracy: 93.07%
+Train Average Loss: 0.8888
+Test Accuracy: 93.47%
+Test Average Loss: 0.8832
+Total Trainable Parameters: 515,754
+
+Current learning rate: 3.97e-04
+New best model saved with test accuracy: 93.47%
+Epoch [171] 📊 acc: 0.931 | Targets: 0.8730 | Entropy: -1.8751
+Epoch [172] 📊 acc: 0.931 | Targets: 0.8737 | Entropy: -1.8755
+Epoch [173] 📊 acc: 0.934 | Targets: 0.8688 | Entropy: -1.8742
+New ref model saved
+Epoch [174] 📊 acc: 0.933 | Targets: 0.8680 | Entropy: -1.8733
+Epoch [175] 📊 acc: 0.935 | Targets: 0.8669 | Entropy: -1.8736
+New ref model saved
+Epoch [176] 📊 acc: 0.934 | Targets: 0.8686 | Entropy: -1.8739
+Epoch [177] 📊 acc: 0.932 | Targets: 0.8715 | Entropy: -1.8750
+Epoch [178] 📊 acc: 0.934 | Targets: 0.8685 | Entropy: -1.8739
+Epoch [179] 📊 acc: 0.936 | Targets: 0.8667 | Entropy: -1.8736
+New ref model saved
+Epoch [180] 📊 acc: 0.935 | Targets: 0.8647 | Entropy: -1.8731
+
+Evaluating at epoch 180 …
+Train Accuracy: 93.53%
+Train Average Loss: 0.8701
+Test Accuracy: 93.34%
+Test Average Loss: 0.8725
+Total Trainable Parameters: 515,754
+
+Current learning rate: 3.46e-04
+Epoch [181] 📊 acc: 0.934 | Targets: 0.8661 | Entropy: -1.8735
+Epoch [182] 📊 acc: 0.937 | Targets: 0.8630 | Entropy: -1.8725
+New ref model saved
+Epoch [183] 📊 acc: 0.936 | Targets: 0.8635 | Entropy: -1.8725
+Epoch [184] 📊 acc: 0.938 | Targets: 0.8600 | Entropy: -1.8720
+New ref model saved
+Epoch [185] 📊 acc: 0.937 | Targets: 0.8621 | Entropy: -1.8724
+Epoch [186] 📊 acc: 0.936 | Targets: 0.8651 | Entropy: -1.8735
+Epoch [187] 📊 acc: 0.937 | Targets: 0.8609 | Entropy: -1.8724
+Epoch [188] 📊 acc: 0.939 | Targets: 0.8594 | Entropy: -1.8720
+New ref model saved
+Epoch [189] 📊 acc: 0.938 | Targets: 0.8614 | Entropy: -1.8725
+Epoch [190] 📊 acc: 0.939 | Targets: 0.8580 | Entropy: -1.8716
+New ref model saved
+
+Evaluating at epoch 190 …
+Train Accuracy: 94.06%
+Train Average Loss: 0.8610
+Test Accuracy: 93.32%
+Test Average Loss: 0.8679
+Total Trainable Parameters: 515,754
+
+Current learning rate: 2.97e-04
+Epoch [191] 📊 acc: 0.939 | Targets: 0.8570 | Entropy: -1.8711
+New ref model saved
+Epoch [192] 📊 acc: 0.939 | Targets: 0.8594 | Entropy: -1.8719
+Epoch [193] 📊 acc: 0.940 | Targets: 0.8566 | Entropy: -1.8713
+New ref model saved
+Epoch [194] 📊 acc: 0.943 | Targets: 0.8530 | Entropy: -1.8701
+New ref model saved
+Epoch [195] 📊 acc: 0.940 | Targets: 0.8560 | Entropy: -1.8712
+Epoch [196] 📊 acc: 0.941 | Targets: 0.8548 | Entropy: -1.8707
+Epoch [197] 📊 acc: 0.940 | Targets: 0.8569 | Entropy: -1.8712
+Epoch [198] 📊 acc: 0.941 | Targets: 0.8541 | Entropy: -1.8708
+Epoch [199] 📊 acc: 0.942 | Targets: 0.8540 | Entropy: -1.8710
+Epoch [200] 📊 acc: 0.940 | Targets: 0.8565 | Entropy: -1.8715
+
+Evaluating at epoch 200 …
+Train Accuracy: 94.27%
+Train Average Loss: 0.8538
+Test Accuracy: 93.56%
+Test Average Loss: 0.8638
+Total Trainable Parameters: 515,754
+
+Current learning rate: 2.51e-04
+New best model saved with test accuracy: 93.56%
+Epoch [201] 📊 acc: 0.942 | Targets: 0.8540 | Entropy: -1.8706
+Epoch [202] 📊 acc: 0.942 | Targets: 0.8524 | Entropy: -1.8703
+Epoch [203] 📊 acc: 0.941 | Targets: 0.8542 | Entropy: -1.8710
+Epoch [204] 📊 acc: 0.944 | Targets: 0.8498 | Entropy: -1.8696
+New ref model saved
+Epoch [205] 📊 acc: 0.944 | Targets: 0.8519 | Entropy: -1.8704
+New ref model saved
+Epoch [206] 📊 acc: 0.942 | Targets: 0.8512 | Entropy: -1.8703
+Epoch [207] 📊 acc: 0.943 | Targets: 0.8494 | Entropy: -1.8694
+Epoch [208] 📊 acc: 0.944 | Targets: 0.8498 | Entropy: -1.8699
+New ref model saved
+Epoch [209] 📊 acc: 0.944 | Targets: 0.8483 | Entropy: -1.8692
+New ref model saved
+Epoch [210] 📊 acc: 0.944 | Targets: 0.8491 | Entropy: -1.8698
+
+Evaluating at epoch 210 …
+Train Accuracy: 94.62%
+Train Average Loss: 0.8467
+Test Accuracy: 93.51%
+Test Average Loss: 0.8629
+Total Trainable Parameters: 515,754
+
+Current learning rate: 2.07e-04
+Epoch [211] 📊 acc: 0.947 | Targets: 0.8465 | Entropy: -1.8692
+New ref model saved
+Epoch [212] 📊 acc: 0.947 | Targets: 0.8447 | Entropy: -1.8685
+New ref model saved
+Epoch [213] 📊 acc: 0.946 | Targets: 0.8472 | Entropy: -1.8692
+Epoch [214] 📊 acc: 0.946 | Targets: 0.8450 | Entropy: -1.8685
+Epoch [215] 📊 acc: 0.948 | Targets: 0.8442 | Entropy: -1.8684
+New ref model saved
+Epoch [216] 📊 acc: 0.947 | Targets: 0.8444 | Entropy: -1.8684
+Epoch [217] 📊 acc: 0.947 | Targets: 0.8441 | Entropy: -1.8684
+Epoch [218] 📊 acc: 0.948 | Targets: 0.8433 | Entropy: -1.8684
+New ref model saved
+Epoch [219] 📊 acc: 0.948 | Targets: 0.8426 | Entropy: -1.8679
+New ref model saved
+Epoch [220] 📊 acc: 0.946 | Targets: 0.8448 | Entropy: -1.8685
+
+Evaluating at epoch 220 …
+Train Accuracy: 94.61%
+Train Average Loss: 0.8432
+Test Accuracy: 93.93%
+Test Average Loss: 0.8563
+Total Trainable Parameters: 515,754
+
+Current learning rate: 1.66e-04
+New best model saved with test accuracy: 93.93%
+Epoch [221] 📊 acc: 0.947 | Targets: 0.8430 | Entropy: -1.8680
+Epoch [222] 📊 acc: 0.950 | Targets: 0.8402 | Entropy: -1.8675
+New ref model saved
+Epoch [223] 📊 acc: 0.949 | Targets: 0.8403 | Entropy: -1.8676
+Epoch [224] 📊 acc: 0.949 | Targets: 0.8406 | Entropy: -1.8675
+Epoch [225] 📊 acc: 0.949 | Targets: 0.8409 | Entropy: -1.8674
+Epoch [226] 📊 acc: 0.947 | Targets: 0.8426 | Entropy: -1.8680
+Epoch [227] 📊 acc: 0.946 | Targets: 0.8441 | Entropy: -1.8685
+Epoch [228] 📊 acc: 0.949 | Targets: 0.8393 | Entropy: -1.8674
+Epoch [229] 📊 acc: 0.949 | Targets: 0.8403 | Entropy: -1.8679
+Epoch [230] 📊 acc: 0.950 | Targets: 0.8385 | Entropy: -1.8668
+
+Evaluating at epoch 230 …
+Train Accuracy: 94.95%
+Train Average Loss: 0.8397
+Test Accuracy: 93.99%
+Test Average Loss: 0.8546
+Total Trainable Parameters: 515,754
+
+Current learning rate: 1.29e-04
+New best model saved with test accuracy: 93.99%
+Epoch [231] 📊 acc: 0.951 | Targets: 0.8370 | Entropy: -1.8669
+New ref model saved
+Epoch [232] 📊 acc: 0.948 | Targets: 0.8393 | Entropy: -1.8670
+Epoch [233] 📊 acc: 0.950 | Targets: 0.8372 | Entropy: -1.8671
+Epoch [234] 📊 acc: 0.951 | Targets: 0.8368 | Entropy: -1.8663
+Epoch [235] 📊 acc: 0.951 | Targets: 0.8355 | Entropy: -1.8660
+New ref model saved
+Epoch [236] 📊 acc: 0.951 | Targets: 0.8354 | Entropy: -1.8664
+New ref model saved
+Epoch [237] 📊 acc: 0.951 | Targets: 0.8372 | Entropy: -1.8672
+Epoch [238] 📊 acc: 0.951 | Targets: 0.8352 | Entropy: -1.8662
+Epoch [239] 📊 acc: 0.951 | Targets: 0.8376 | Entropy: -1.8672
+Epoch [240] 📊 acc: 0.952 | Targets: 0.8364 | Entropy: -1.8670
+New ref model saved
+
+Evaluating at epoch 240 …
+Train Accuracy: 94.89%
+Train Average Loss: 0.8374
+Test Accuracy: 94.05%
+Test Average Loss: 0.8505
+Total Trainable Parameters: 515,754
+
+Current learning rate: 9.64e-05
+New best model saved with test accuracy: 94.05%
+Epoch [241] 📊 acc: 0.953 | Targets: 0.8323 | Entropy: -1.8656
+New ref model saved
+Epoch [242] 📊 acc: 0.952 | Targets: 0.8330 | Entropy: -1.8654
+Epoch [243] 📊 acc: 0.954 | Targets: 0.8332 | Entropy: -1.8660
+New ref model saved
+Epoch [244] 📊 acc: 0.952 | Targets: 0.8361 | Entropy: -1.8668
+Epoch [245] 📊 acc: 0.952 | Targets: 0.8329 | Entropy: -1.8656
+Epoch [246] 📊 acc: 0.952 | Targets: 0.8336 | Entropy: -1.8656
+Epoch [247] 📊 acc: 0.951 | Targets: 0.8365 | Entropy: -1.8669
+Epoch [248] 📊 acc: 0.952 | Targets: 0.8336 | Entropy: -1.8659
+Epoch [249] 📊 acc: 0.953 | Targets: 0.8321 | Entropy: -1.8655
+Epoch [250] 📊 acc: 0.954 | Targets: 0.8306 | Entropy: -1.8650
+New ref model saved
+
+Evaluating at epoch 250 …
+Train Accuracy: 95.29%
+Train Average Loss: 0.8314
+Test Accuracy: 94.08%
+Test Average Loss: 0.8509
+Total Trainable Parameters: 515,754
+
+Current learning rate: 6.79e-05
+New best model saved with test accuracy: 94.08%
+Epoch [251] 📊 acc: 0.954 | Targets: 0.8308 | Entropy: -1.8655
+Epoch [252] 📊 acc: 0.953 | Targets: 0.8318 | Entropy: -1.8653
+Epoch [253] 📊 acc: 0.952 | Targets: 0.8331 | Entropy: -1.8658
+Epoch [254] 📊 acc: 0.954 | Targets: 0.8310 | Entropy: -1.8653
+New ref model saved
+Epoch [255] 📊 acc: 0.954 | Targets: 0.8306 | Entropy: -1.8655
+Epoch [256] 📊 acc: 0.953 | Targets: 0.8330 | Entropy: -1.8658
+Epoch [257] 📊 acc: 0.955 | Targets: 0.8295 | Entropy: -1.8650
+New ref model saved
+Epoch [258] 📊 acc: 0.956 | Targets: 0.8287 | Entropy: -1.8649
+New ref model saved
+Epoch [259] 📊 acc: 0.954 | Targets: 0.8313 | Entropy: -1.8653
+Epoch [260] 📊 acc: 0.955 | Targets: 0.8297 | Entropy: -1.8652
+
+Evaluating at epoch 260 …
+Train Accuracy: 95.40%
+Train Average Loss: 0.8287
+Test Accuracy: 94.05%
+Test Average Loss: 0.8497
+Total Trainable Parameters: 515,754
+
+Current learning rate: 4.42e-05
+Epoch [261] 📊 acc: 0.953 | Targets: 0.8322 | Entropy: -1.8659
+Epoch [262] 📊 acc: 0.955 | Targets: 0.8285 | Entropy: -1.8648
+Epoch [263] 📊 acc: 0.955 | Targets: 0.8289 | Entropy: -1.8649
+Epoch [264] 📊 acc: 0.955 | Targets: 0.8296 | Entropy: -1.8650
+Epoch [265] 📊 acc: 0.955 | Targets: 0.8286 | Entropy: -1.8649
+Epoch [266] 📊 acc: 0.953 | Targets: 0.8311 | Entropy: -1.8652
+Epoch [267] 📊 acc: 0.956 | Targets: 0.8285 | Entropy: -1.8648
+Epoch [268] 📊 acc: 0.955 | Targets: 0.8299 | Entropy: -1.8655
+Epoch [269] 📊 acc: 0.956 | Targets: 0.8278 | Entropy: -1.8646
+New ref model saved
+Epoch [270] 📊 acc: 0.956 | Targets: 0.8273 | Entropy: -1.8646
+
+Evaluating at epoch 270 …
+Train Accuracy: 95.50%
+Train Average Loss: 0.8275
+Test Accuracy: 94.09%
+Test Average Loss: 0.8496
+Total Trainable Parameters: 515,754
+
+Current learning rate: 2.54e-05
+New best model saved with test accuracy: 94.09%
+Epoch [271] 📊 acc: 0.954 | Targets: 0.8301 | Entropy: -1.8650
+Epoch [272] 📊 acc: 0.955 | Targets: 0.8275 | Entropy: -1.8643
+Epoch [273] 📊 acc: 0.956 | Targets: 0.8256 | Entropy: -1.8637
+New ref model saved
+Epoch [274] 📊 acc: 0.954 | Targets: 0.8297 | Entropy: -1.8651
+Epoch [275] 📊 acc: 0.956 | Targets: 0.8270 | Entropy: -1.8642
+Epoch [276] 📊 acc: 0.956 | Targets: 0.8265 | Entropy: -1.8640
+Epoch [277] 📊 acc: 0.956 | Targets: 0.8254 | Entropy: -1.8637
+Epoch [278] 📊 acc: 0.955 | Targets: 0.8285 | Entropy: -1.8649
+Epoch [279] 📊 acc: 0.956 | Targets: 0.8277 | Entropy: -1.8647
+Epoch [280] 📊 acc: 0.956 | Targets: 0.8278 | Entropy: -1.8646
+
+Evaluating at epoch 280 …
+Train Accuracy: 95.67%
+Train Average Loss: 0.8267
+Test Accuracy: 94.09%
+Test Average Loss: 0.8514
+Total Trainable Parameters: 515,754
+
+Current learning rate: 1.19e-05
+Epoch [281] 📊 acc: 0.957 | Targets: 0.8258 | Entropy: -1.8644
+New ref model saved
+Epoch [282] 📊 acc: 0.957 | Targets: 0.8263 | Entropy: -1.8639
+Epoch [283] 📊 acc: 0.955 | Targets: 0.8290 | Entropy: -1.8653
+Epoch [284] 📊 acc: 0.956 | Targets: 0.8267 | Entropy: -1.8644
+Epoch [285] 📊 acc: 0.956 | Targets: 0.8273 | Entropy: -1.8642
+Epoch [286] 📊 acc: 0.956 | Targets: 0.8271 | Entropy: -1.8643
+Epoch [287] 📊 acc: 0.955 | Targets: 0.8273 | Entropy: -1.8642
+Epoch [288] 📊 acc: 0.957 | Targets: 0.8257 | Entropy: -1.8640
+New ref model saved
+Epoch [289] 📊 acc: 0.957 | Targets: 0.8265 | Entropy: -1.8646
+Epoch [290] 📊 acc: 0.956 | Targets: 0.8257 | Entropy: -1.8641
+
+Evaluating at epoch 290 …
+Train Accuracy: 95.51%
+Train Average Loss: 0.8282
+Test Accuracy: 94.11%
+Test Average Loss: 0.8492
+Total Trainable Parameters: 515,754
+
+Current learning rate: 3.74e-06
+New best model saved with test accuracy: 94.11%
+Epoch [291] 📊 acc: 0.956 | Targets: 0.8278 | Entropy: -1.8647
+Epoch [292] 📊 acc: 0.956 | Targets: 0.8262 | Entropy: -1.8642
+Epoch [293] 📊 acc: 0.956 | Targets: 0.8261 | Entropy: -1.8644
+Epoch [294] 📊 acc: 0.956 | Targets: 0.8260 | Entropy: -1.8638
+Epoch [295] 📊 acc: 0.957 | Targets: 0.8242 | Entropy: -1.8633
+New ref model saved
+Epoch [296] 📊 acc: 0.957 | Targets: 0.8261 | Entropy: -1.8643
+Epoch [297] 📊 acc: 0.957 | Targets: 0.8249 | Entropy: -1.8634
+Epoch [298] 📊 acc: 0.957 | Targets: 0.8244 | Entropy: -1.8638
+Epoch [299] 📊 acc: 0.956 | Targets: 0.8263 | Entropy: -1.8638
+Epoch [300] 📊 acc: 0.957 | Targets: 0.8251 | Entropy: -1.8636
+
+Evaluating at epoch 300 …
+Train Accuracy: 95.69%
+Train Average Loss: 0.8249
+Test Accuracy: 94.14%
+Test Average Loss: 0.8499
+Total Trainable Parameters: 515,754
+
+Current learning rate: 1.00e-06
+New best model saved with test accuracy: 94.14%
+Finished Training
+Best test accuracy achieved: 94.14%
+Total Trainable Parameters: 515,754
